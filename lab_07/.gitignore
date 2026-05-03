@@ -1,0 +1,6 @@
+*.prototxt
+*.caffemodel
+build/
+bin/
+*.o
+*.out
